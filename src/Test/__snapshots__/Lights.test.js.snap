@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`lights with imported components: step1 1`] = `
+<div>
+  <div>
+    green light
+  </div>
+  <button
+    className="btn-back"
+    onClick={[Function]}
+    style={
+      Object {
+        "left": "48%",
+        "position": "absolute",
+        "top": "140px",
+      }
+    }
+    type="submit"
+  >
+    click here
+  </button>
+</div>
+`;
+
+exports[`lights with imported components: step2 1`] = `
+<div>
+  yellow
+  <div>
+    yellow light
+  </div>
+  <button
+    className="btn-back"
+    onClick={[Function]}
+    style={
+      Object {
+        "left": "48%",
+        "position": "absolute",
+        "top": "140px",
+      }
+    }
+    type="submit"
+  >
+    click here
+  </button>
+</div>
+`;
+
+exports[`lights with imported components: step3 1`] = `
+<div>
+  red
+  <div>
+    red light
+  </div>
+  <button
+    className="btn-back"
+    onClick={[Function]}
+    style={
+      Object {
+        "left": "48%",
+        "position": "absolute",
+        "top": "140px",
+      }
+    }
+    type="submit"
+  >
+    click here
+  </button>
+</div>
+`;
